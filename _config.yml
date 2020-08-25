@@ -102,5 +102,11 @@ theme: webstack
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+
 deploy:
-  type: ''
+- type: git
+  repo: https://github.com/BestDingSheng/toolbar.git
+  branch: [gh-pages]
+- type: git
+  repo: git@e.coding.net:Deson/toolbar/toolbar.git
+  branch: [master]
