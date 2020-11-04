@@ -1,0 +1,8 @@
+- name: 2ality
+  img: https://2ality.com/img/favicon.png
+  url: https://2ality.com/
+  description: js 学习博客
+- name: alligator
+  img: https://alligator.io/assets/img/touch-icon-192x192.png
+  url: https://alligator.io/
+  description: 前端大佬

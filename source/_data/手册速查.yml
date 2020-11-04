@@ -42,3 +42,11 @@
   img: https://q1.qlogo.cn/g?b=qq&nk=535668586&s=0
   url: https://www.antmoe.com/posts/3b43914f/index.html
   description: 小康的主题食用文档，不一定所有人哦！
+- name: 2ality
+  img: https://2ality.com/img/favicon.png
+  url: https://2ality.com/
+  description: js 学习博客
+- name: alligator
+  img: https://alligator.io/assets/img/touch-icon-192x192.png
+  url: https://alligator.io/
+  description: 前端大佬
