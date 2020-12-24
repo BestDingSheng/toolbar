@@ -1,0 +1,38 @@
+- name: 掘金
+  img: http://www.alloyteam.com/nav/static/images/gold-favicon.png
+  url: https://juejin.cn/
+  description: 只有高手分享的中文技术社区
+
+- name: Stack Overflow
+  img: http://www.alloyteam.com/nav/static/images/stackoverflow-favicon.png
+  url: https://stackoverflow.com/
+  description: 编程相关的IT技术问答网站
+
+- name: github 
+  img: http://www.alloyteam.com/nav/static/images/github-favicon.png
+  url: https://github.com/
+  description: 面向开源及私有软件项目的git托管平台
+
+- name: SegmentFault 
+  img: http://www.alloyteam.com/nav/static/images/segmentfault-favicon.png
+  url: https://segmentfault.com/
+  description: 一个专注于解决编程问题，提高开发技能的社区。
+
+- name: V2ex 
+  img: http://www.alloyteam.com/nav/static/images/v2ex-favicon.png
+  url: https://www.v2ex.com/
+  description: 一个关于分享和探索的地方。
+
+- name: JS Tips 
+  img: http://www.alloyteam.com/nav/static/images/jstips-favicon.png
+  url: https://www.jstips.co/
+  description: 每天推出一个JS技巧的网站
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+- name: 腾讯 AlloyTeam 团队
+  img: http://www.alloyteam.com/nav/static/images/alloyteam-favicon.jpg
+  url: http://www.alloyteam.com/
+  description:  腾讯Web前端团队，代表作品WebQQ，致力于前端技术的研究
+- name: ISUX
+  img: http://www.alloyteam.com/nav/static/images/isux-favicon.jpg
+  url: https://isux.tencent.com/
+  description: 腾讯社交用户体验设计，简称ISUX，腾讯设计团队网站
+- name: FEX
+  img: http://www.alloyteam.com/nav/static/images/fex-favicon.png
+  url: http://fex.baidu.com/
+  description: 百度Web前端研发部出品
+- name: 凹凸实验室
+  img: http://www.alloyteam.com/nav/static/images/aotu-favicon.png
+  url: https://aotu.io/
+  description:  京东用户体验设计部出品
+      
