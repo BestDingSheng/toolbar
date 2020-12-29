@@ -33,6 +33,18 @@ menu:
       - name: IDE
         icon: fas fa-book
         config: IDE
+      - name: 代码托管
+        icon: fas fa-book
+        config: 代码托管
+  - name: 设计资源
+    icon: far fa-paper-plane
+    submenu:
+      - name: 图片素材
+        icon: fas fa-book
+        config: 图片素材
+      - name: 渐变配色
+        icon: fas fa-book
+        config: 渐变配色
 
 
 # menu:

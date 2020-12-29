@@ -1,29 +1,29 @@
-- name: react
+- name: React
   img: https://react.docschina.org/favicon.ico
   url: https://react.docschina.org/
   description: react 官网
 
-- name: react-router
+- name: React-router
   img: https://reactrouter.com/favicon-32x32.png
   url: https://reactrouter.com/
   description: react 路由
 
-- name: react
+- name: Redux
   img: https://redux.js.org/img/redux.svg
   url: https://redux.js.org/introduction/getting-started
   description: react 状态管理
 
-- name: style-components
+- name: Style-components
   img: https://styled-components.com/atom.png
   url: https://styled-components.com/
   description: css in js 比较流行的库
 
-- name: immerjs
+- name: Immerjs
   img: https://immerjs.github.io/immer/img/favicon.ico
   url: https://immerjs.github.io/immer/docs/introduction
   description: js 不可变数据结构 
 
-- name: webpack
+- name: Webpack
   img: https://ae02.alicdn.com/kf/Hf9be67f4f5a44150aec70e2c428eab35V.jpg
   url: https://www.webpackjs.com/concepts/
   description: webpack 是一个现代 JavaScript 应用程序的静态模块打包器(module bundler)
@@ -38,12 +38,12 @@
   url: https://docs.tzki.cn/es6/
   description: 《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性
 
-- name: npm 中文文档
+- name: Npm 中文文档
   img: https://ae03.alicdn.com/kf/Ha6b9cbd364c34469bf1b3e33fe37ae9cn.jpg
   url: https://www.npmjs.cn/
   description: npm 是 JavaScript 世界的包管理工具，并且是 Node.js 平台的默认包管理工具。通过 npm 可以安装、共享、分发代码，管理项目依赖关系。
 
-- name: mongoosejs
+- name: Mongoosejs
   img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/08/125b85d7b6cbdd3789bf4bf70bfb112b.png
   url: http://mongoosejs.net/
   description: 让我们面对这样的困境, 编写MongoDB验证，转换和业务逻辑是非常麻烦的. 所以我们发明了Mongoose.

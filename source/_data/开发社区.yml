@@ -3,16 +3,6 @@
   url: https://juejin.cn/
   description: 只有高手分享的中文技术社区
 
-- name: Stack Overflow
-  img: http://www.alloyteam.com/nav/static/images/stackoverflow-favicon.png
-  url: https://stackoverflow.com/
-  description: 编程相关的IT技术问答网站
-
-- name: github 
-  img: http://www.alloyteam.com/nav/static/images/github-favicon.png
-  url: https://github.com/
-  description: 面向开源及私有软件项目的git托管平台
-
 - name: SegmentFault 
   img: http://www.alloyteam.com/nav/static/images/segmentfault-favicon.png
   url: https://segmentfault.com/
@@ -23,10 +13,37 @@
   url: https://www.v2ex.com/
   description: 一个关于分享和探索的地方。
 
-- name: JS Tips 
-  img: http://www.alloyteam.com/nav/static/images/jstips-favicon.png
-  url: https://www.jstips.co/
-  description: 每天推出一个JS技巧的网站
+- name: Stack Overflow
+  img: http://www.alloyteam.com/nav/static/images/stackoverflow-favicon.png
+  url: https://stackoverflow.com/
+  description: 编程相关的IT技术问答网站
+
+- name: Github 
+  img: http://www.alloyteam.com/nav/static/images/github-favicon.png
+  url: https://github.com/
+  description: 面向开源及私有软件项目的git托管平台
+
+- name: 知乎
+  url: https://www.zhihu.com/
+  img: https://ae01.alicdn.com/kf/H98f4ee6be53d42eeb47d0c78249227b2a.png
+  description: 有问题，上知乎。知乎，可信赖的问答社区，以让每个人高效获得可信赖的解答为使命。知乎凭借认真、专业和友善的社区氛围，结构化、易获得的优质内容，基于问答的内容生产方式和独特的社区机制，吸引、聚集了各行各业中大量的亲历者、内行人、领域专家、领域爱好者，将高质量的内容透过人的节点来成规模地生产和分享。用户通过问答等交流方式建立信任和连接，打造和提升个人影响力，并发现、获得新机会。
+
+- name: 云+社区
+  img: https://ae01.alicdn.com/kf/H63879ef7df4e4a0d8848c51b619c36195.png
+  url: https://cloud.tencent.com/developer/support-plan?invite_code=2npd39udr6kgg
+  description: 腾讯云+社区各大技术社区及平台百万级流量推广
+
+- name: Topbook | 高效生活视频书
+  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/946d77bfc9148a4bde39cf1e689ce52d.png
+  url: https://topbook.cc/overview
+  description: 高效生活视频书
+
+
+
+# - name: JS Tips 
+#   img: http://www.alloyteam.com/nav/static/images/jstips-favicon.png
+#   url: https://www.jstips.co/
+#   description: 每天推出一个JS技巧的网站
 
 
 
