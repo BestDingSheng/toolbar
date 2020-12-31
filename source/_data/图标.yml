@@ -1,0 +1,24 @@
+- name: iconfont
+  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/assets/images/logos/iconfont.png
+  url: http://www.iconfont.cn/
+  description: 阿里巴巴矢量图标库
+
+- name: Font Awesome 5 中文文档
+  img: https://ae01.alicdn.com/kf/U2b267f8ebe6740f5aa0306f1375611a3B.jpg
+  url: https://fa5.dashgame.com/#/%E5%9B%BE%E6%A0%87
+  description: Font Awesome 5 中文文档
+
+- name: Font Awesome5图标库
+  img: https://ae01.alicdn.com/kf/H139ad2194f9547d7b43005c8e18f048cR.png
+  url: https://fontawesome.com/icons?d=gallery&g=hands&m=free
+  description: 快速查询Font Awesome5的图标
+
+- name: REMIX ICON
+  img: https://ae03.alicdn.com/kf/Hcd12c43a45e14e629c0d46f3e1ec6be8r.jpg
+  url: https://remixicon.com/
+  description: Simply Delightful Icon System
+
+- name: easyicon
+  img: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/webstack/assets/images/logos/easyicon.png
+  url: http://www.easyicon.net/
+  description: PNG、ICO、ICNS格式图标搜索、图标下载服务

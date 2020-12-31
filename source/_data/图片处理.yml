@@ -3,16 +3,6 @@
   img: https://ae02.alicdn.com/kf/Ue573a7cd3c5e45c1bd673e392625d734t.jpg
   description: 免费在线图片压缩、GIF压缩工具、PDF压缩工具、PDF合并工具、PDF分割工具
 
-- name: HTML转PUG
-  url: https://html2pug.now.sh/
-  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/10/c72ced84b64377d9b709d98865fe7d2c.png
-  description: Pug 是一款健壮、灵活、功能丰富的模板引擎，专门为 Node.js 平台开发。Pug 是由 Jade 改名而来。
-
-- name: CSS转scss/sass
-  url: http://css2sass.herokuapp.com/
-  img: http://css2sass.herokuapp.com/images/favicon.ico
-  description: Convert CSS Snippets to Syntactically Awesome StyleSheets code
-
 - name: 消除背景
   url: https://www.remove.bg/zh/upload
   img: https://ae02.alicdn.com/kf/Hfe7cd53344ad45ab826400e46d6879edd.jpg
@@ -52,8 +42,3 @@
   url: https://en.m.fontke.com/tool/subfont/
   img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/b69d18f0cad47fad5fd7e9447d9a5069.png
   description: 字客网字体子集生成器可以让用户抽出一个字体文件里想要的字，再组成精减的字体文件，十分适合制作网页字体。操作简单，快捷，只需输入想要抽取的字，之后一键生成。
-
-- name: 字体子集生成器
-  url: https://en.m.fontke.com/tool/subfont/
-  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/08/05/8c045fbabfb40f3ea65242502ce43de1.png
-  description: 使用此免费在线SVG 至PNG转换软件允许您将SVG文档转换成PNG文档，轻松且简单，无需安装任何软件。

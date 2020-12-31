@@ -39,13 +39,36 @@ menu:
   - name: 设计资源
     icon: far fa-paper-plane
     submenu:
+      - name: 图标
+        icon: fas fa-book
+        config: 图标
       - name: 图片素材
         icon: fas fa-book
         config: 图片素材
       - name: 渐变配色
         icon: fas fa-book
         config: 渐变配色
-
+  - name: 其他
+    icon: far fa-paper-plane
+    submenu:
+      - name: 网络资源
+        icon: fas fa-book
+        config: 网络资源
+      - name: 手册速查
+        icon: fas fa-book
+        config: 手册速查
+      - name: 图片处理
+        icon: fas fa-book
+        config: 图片处理
+      - name: 在线写作
+        icon: fas fa-book
+        config: 在线写作
+      - name: 在线工具
+        icon: fas fa-book
+        config: 在线工具
+      - name: 主机域名
+        icon: fas fa-book
+        config: 主机域名
 
 # menu:
 #   - name: 博客相关

@@ -1,10 +1,10 @@
 - name: React
-  img: https://react.docschina.org/favicon.ico
+  img: https://cdn.jsdelivr.net/gh/BestDingSheng/ImgHosting/Deson-PIC/20201230162602.ico
   url: https://react.docschina.org/
   description: react 官网
 
 - name: React-router
-  img: https://reactrouter.com/favicon-32x32.png
+  img: https://cdn.jsdelivr.net/gh/BestDingSheng/ImgHosting/Deson-PIC/20201230162618.png
   url: https://reactrouter.com/
   description: react 路由
 
@@ -14,7 +14,7 @@
   description: react 状态管理
 
 - name: Style-components
-  img: https://styled-components.com/atom.png
+  img: https://cdn.jsdelivr.net/gh/BestDingSheng/ImgHosting/Deson-PIC/20201230162632.png
   url: https://styled-components.com/
   description: css in js 比较流行的库
 
