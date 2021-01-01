@@ -36,6 +36,9 @@ menu:
       - name: 代码托管
         icon: fas fa-book
         config: 代码托管
+      - name: 构建工具
+        icon: fas fa-book
+        config: 构建工具
   - name: 设计资源
     icon: far fa-paper-plane
     submenu:
