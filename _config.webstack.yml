@@ -73,6 +73,13 @@ menu:
         icon: fas fa-book
         config: 主机域名
 
+  - name: 信息相关
+    icon: far fa-paper-plane
+    submenu:
+      - name: 资讯
+        icon: fas fa-book
+        config: 资讯
+
 # menu:
 #   - name: 博客相关
 #     icon: far fa-paper-plane

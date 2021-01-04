@@ -1,0 +1,19 @@
+- name: 品玩
+  img: https://cdn.pingwest.com/pw-favicon.png
+  url: https://www.pingwest.com/
+  description: 品玩-有品好玩的科技，一切与你有关
+
+- name: 爱范儿
+  img: https://images.ifanr.cn/wp-content/themes/ifanr-5.0-pc/static/images/favicon.ico
+  url: https://www.ifanr.com/
+  description:   爱范儿 · 让未来触手可及
+
+- name: DoNews
+  img: https://www.donews.com/static/image/favicon.ico
+  url: https://www.donews.com/
+  description: DoNews-互联网新闻门户网站-IT资讯科技媒体
+
+- name: 极客公园
+  img: http://imgslim.geekpark.net/geekpark-icon-196-03ac430f5643fc17aba3b3f5429a287d.png
+  url: http://www.geekpark.net/
+  description:  极客公园聚焦互联网领域，跟踪最新的科技新闻动态，关注极具创新精神的科技产品。目前涵盖前沿科技、游戏、手机评测、硬件测评、出行方式、共享经济、人工智能等全方位的科技生活内容。现有前沿社、挖App、深度报道、极客养成指南等多个内容栏目。
