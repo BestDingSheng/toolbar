@@ -1,11 +1,11 @@
 - name: Json Editor Online
-  url: https://jsoneditoronline.org/
+  url: http://www.bejson.com/jsonviewernew/
   img: https://ae01.alicdn.com/kf/Hac93258007754340927a1e0712c760ddf.png
   description: 在线编写JSON
 
-- name: Mac 代码块
+- name: Carbon
   url: https://carbon.now.sh/
-  img: https://ae01.alicdn.com/kf/Hb1c8a09d5dc34d9298dc3e13853b3ed0P.png
+  img: https://cdn.jsdelivr.net/gh/BestDingSheng/ImgHosting/Deson-PIC/20210110205749.ico
   description: 快速生成MAC样式的代码块。
 
 - name: 网站缩略图
@@ -13,18 +13,26 @@
   img: https://ae01.alicdn.com/kf/Hc23a4ccd5cb44361b85d69bcdea4ab73D.png
   description: 输入网址生成网站缩略图
 
-- name: HTML转PUG
-  url: https://html2pug.now.sh/
-  img: https://cdn.jsdelivr.net/gh/blogimg/HexoStaticFile2@latest/2020/07/10/c72ced84b64377d9b709d98865fe7d2c.png
-  description: Pug 是一款健壮、灵活、功能丰富的模板引擎，专门为 Node.js 平台开发。Pug 是由 Jade 改名而来。
-
-- name: CSS转scss/sass
-  url: http://css2sass.herokuapp.com/
-  img: http://css2sass.herokuapp.com/images/favicon.ico
-  description: Convert CSS Snippets to Syntactically Awesome StyleSheets code
-
-
 - name: LaTeX在线：吴文中数学公式编辑器
   url: https://latex.91maths.com/
   img: https://ae02.alicdn.com/kf/U9105c3efda2448cf964befd3d4e9d25fO.jpg
   description: LaTeX在线：吴文中数学公式编辑器
+
+- name: translate google
+  url: https://translate.google.cn/
+  img: https://cdn.jsdelivr.net/gh/BestDingSheng/ImgHosting/Deson-PIC/20210110210003.ico
+  description: google 翻译
+
+- name: emoji
+  url: https://emoji.svend.cc/
+  img: https://images.frontendjs.com/emoji-svend.ico
+  description: emoji 表情
+
+- name: 在线资料合集
+  url: https://www.toolnb.com/
+  img: 
+  description: 工具集合基本都有
+
+
+
+

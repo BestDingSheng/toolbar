@@ -83,6 +83,13 @@ menu:
         icon: fas fa-book
         config: 资讯
 
+  - name: 上海生活
+    icon: far fa-paper-plane
+    submenu:
+      - name: 人民服务
+        icon: fas fa-book
+        config: 人民服务
+
 # menu:
 #   - name: 博客相关
 #     icon: far fa-paper-plane

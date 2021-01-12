@@ -1,0 +1,31 @@
+
+- name: 社保查询
+  img: 
+  url: http://www.rsj.sh.gov.cn/sbsjb/wzb/226.jsp#
+  description: 个人社保查询
+
+- name: 居住证查询
+  img: 
+  url: https://www.962222.net/index.html
+  description: 居住证有效期查询
+
+
+- name: 拉税单
+  img: 
+  url: http://shanghai.chinatax.gov.cn/
+  description: 我要办税 =》 我要办税 =》证明开具  ZGluZzE1NjU2MQ==
+
+
+- name: 上海房屋管理局
+  img: 
+  url: http://fgj.sh.gov.cn/index.html
+  description: 可以查看公租房
+
+- name: 网上房地产
+  img: 
+  url: http://www.fangdi.com.cn/index.html
+  description: 网上房地产
+
+
+  
+
