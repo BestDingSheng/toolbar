@@ -82,6 +82,9 @@ menu:
       - name: 资讯
         icon: fas fa-book
         config: 资讯
+      - name: 其他导航
+        icon: fas fa-book
+        config: 其他导航
 
   - name: 上海生活
     icon: far fa-paper-plane

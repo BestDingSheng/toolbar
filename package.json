@@ -25,5 +25,8 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "hexo-theme-webstack": "^2.0.0"
+  },
+  "devDependencies": {
+    "taro-ui": "^2.3.4"
   }
 }
