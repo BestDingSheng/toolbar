@@ -18,6 +18,16 @@
   url: https://styled-components.com/
   description: css in js 比较流行的库
 
+- name: Vue2
+  img: https://cn.vuejs.org/images/logo.png
+  url: https://cn.vuejs.org/
+  description: vue2 中文官网
+
+- name: Vue3
+  img: https://cn.vuejs.org/images/logo.png
+  url: https://v3.vuejs.org/
+  description: vue3 官网
+
 - name: Immerjs
   img: https://immerjs.github.io/immer/img/favicon.ico
   url: https://immerjs.github.io/immer/docs/introduction
@@ -33,6 +43,11 @@
   img: https://ae04.alicdn.com/kf/H147985c637ff42259f16d2a4400ea837k.jpg
   url: https://docs.tzki.cn/es6/
   description: 《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性
+
+
+
+
+  
 
 
 # - name: Mongoosejs
